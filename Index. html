@@ -1,0 +1,64 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to right, #0f172a, #1e3a8a);
+        color: white;
+        margin: 0;
+        text-align: center;
+    }
+
+    nav {
+        background: rgba(0,0,0,0.5);
+        padding: 15px;
+        position: sticky;
+        top: 0;
+    }
+
+    nav a {
+        color: white;
+        margin: 15px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    h1 {
+        margin-top: 20px;
+        font-size: 28px;
+    }
+
+    .container {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .box {
+        background: rgba(255,255,255,0.05);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+
+    input {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    button {
+        padding: 10px 15px;
+        background: #22c55e;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+
+</style><a href="https://wa.me/233592129008?text=Hi,%20I’ve%20paid%205%20GHS%20for%20SHS%20notes.%20Please%20send%20my%20password.">
+    <button>💬 I Have Paid – Send Password</button>
+</a><a href="https://wa.me/233592129008?text=Hi,%20I%20want%20to%20buy%20SHS%20notes.">
+    <button>💬 I Want to Buy</button>
+</a><a href="https://wa.me/233592129008?text=Hi,%20I’ve%20paid%205%20GHS.%20Please%20send%20my%20password.">
+    <button>💬 I Have Paid</button>
+</a>
